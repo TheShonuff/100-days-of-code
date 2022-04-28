@@ -9,3 +9,6 @@ Started Learning REACT on FreeCodeCamp.
 
 ### R1D2
 Still going through FreedCodeCamp to learn the basics of REACT
+
+### R1D2
+Worked through 3 codewars problems. 2 FreeCodeCamp problems and started a uDemy Pokedex code along.
