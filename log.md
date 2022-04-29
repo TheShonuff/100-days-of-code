@@ -26,5 +26,13 @@ Finished an online connect form using nodemailer and multiparty for a website I'
 
 **Link to work:** [Draft Mock](https://www.figma.com/file/dlFy9yvgcgGhTAlGtXu93Z?node-id=0:1)
 
+### Day 3: April 28, 2022 
 
+**Today's Progress**: Not much on the javascript/react progress today. Been working on a photopgraphy website and got caught up on getting the portfolio page working. I was able to review notes on REACT components and props. I performed a couple of review exercises at the end of chapter 4 in Eloquent JS book.
+
+**Thoughts:** Working on a client webpage and found a responsive plugin called masonry. I was able to install the plugin but was unable to get the application working correctly through node. I need a better understanding of importing/exporting modules. I found an application that can "roll-up" you're javascripts on deployment so they all work but I didn't understand the concepts fully. 
+
+I spent too much time trying to get masonry-layout working today. I did end up achieving a product that is functional but outside what I originally set out to do. I have the script for masonry loading into a script tag on the page and calibrated bootstrap to handle the layout adjustments. After this project I probably will never use bootstrap or some sort of framework for CSS ever again. 
+
+**Link to work:** [Draft Mock](https://www.figma.com/file/dlFy9yvgcgGhTAlGtXu93Z?node-id=0:1)
 
