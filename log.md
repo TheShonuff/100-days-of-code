@@ -34,5 +34,11 @@ Finished an online connect form using nodemailer and multiparty for a website I'
 
 I spent too much time trying to get masonry-layout working today. I did end up achieving a product that is functional but outside what I originally set out to do. I have the script for masonry loading into a script tag on the page and calibrated bootstrap to handle the layout adjustments. After this project I probably will never use bootstrap or some sort of framework for CSS ever again. 
 
-**Link to work:** [Draft Mock](https://www.figma.com/file/dlFy9yvgcgGhTAlGtXu93Z?node-id=0:1)
+**Link to work:** n/a
+
+### Day 4: April 29, 2022
+
+**Today's Progress**: It's Friday but my Monday at work. Today I'm tired and only did the minimum 1 hour. I worked through the final bit of exercises of chapter 4 in Eloquent JS and ran a few CodeWars.
+
+**Thoughts** It seems to there is so much too memorize and remember when solving some of these code war problems. I often make silly mistakes in my function writing which leads to extra time debugging. 
 

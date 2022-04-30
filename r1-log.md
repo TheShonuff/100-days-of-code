@@ -15,3 +15,6 @@ Worked through 3 codewars problems. 2 FreeCodeCamp problems and started a uDemy 
 
 ### R1D3
 Studied some material and worked on a client website.
+
+### R1D4 
+Did the minimum today. I'm tired. 
