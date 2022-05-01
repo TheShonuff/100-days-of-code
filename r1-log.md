@@ -18,3 +18,6 @@ Studied some material and worked on a client website.
 
 ### R1D4 
 Did the minimum today. I'm tired. 
+
+### R1D5
+Got an app deployed. It's buggy. Need to fix.

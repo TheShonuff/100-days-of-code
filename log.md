@@ -42,3 +42,12 @@ I spent too much time trying to get masonry-layout working today. I did end up a
 
 **Thoughts** It seems to there is so much too memorize and remember when solving some of these code war problems. I often make silly mistakes in my function writing which leads to extra time debugging. 
 
+### Day 5: April 30, 2022
+
+**Today's Progress**: Busy day at work today but still managed to log almost 3 hours of computer time. A good chunk of my time was spent trying to figure out how I broke npm. I *was* using npm with [SUDO](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally) and finally made the change to get off of that. At first nothing was working in my terminal which was fixed after closing my terminal session. Then I need to point my shell to the new path. 
+
+After that headache I was able to deply a site I was working on to start developing an instagram basic view but realzed how broken the site is still so I'm gonna go back and start going through the bugs tomorrow.
+
+I then logged 1 hour on uDemy finishing a REACT code along. Then I started working through a Mongo/Express demonstration. 
+
+**Thoughts** Need to start practicing this tutorials more. I'm starting to get a sense the information is not really sticking well. 
