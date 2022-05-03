@@ -21,3 +21,9 @@ Did the minimum today. I'm tired.
 
 ### R1D5
 Got an app deployed. It's buggy. Need to fix.
+
+### R1D6
+Light day. Transferred some notes to notion and did a few code wars. 
+
+### R1D7 
+Another Light Day. Wrote some C++ for class and did some REACT props and state.

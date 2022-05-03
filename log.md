@@ -51,3 +51,15 @@ After that headache I was able to deply a site I was working on to start develop
 I then logged 1 hour on uDemy finishing a REACT code along. Then I started working through a Mongo/Express demonstration. 
 
 **Thoughts** Need to start practicing this tutorials more. I'm starting to get a sense the information is not really sticking well. 
+
+### Day 6: May 1, 2022
+
+**Today's Progress**: Did the minimum amount of work required today. Between a busy day and work and an early day tomorrow I decided to take a semi-rest day. I discovered notion and began importing all my notes over for easier access. I then did a couple of codewars problems and looked into Bundlers.
+
+**Thoughts**: I am having trouble choosing a javascript bundler. There are a few options with Webpack, Rollup and Parcel being the most popular choices. However they all seem to take different approaches. Based on the summary at [bundler report](bundlers.tooling.report) I might be choosing between Parcel or Webpack. I need to grok what's happening in the package.json scripts section to unlock how these work. 
+
+### Day 7: May 2, 2022
+
+**Today's Progress**: Wrote my final lab for ELE 181 in C++ today. Was a relatively easy assignment that combined all the lessons into one lab. After learning Python and Javascript this was a very easy lab to perform. I then moved on to learning more about React state and props. Finished a couple of FreedCodeCamp modules.
+
+**Thoughts**: Feeling more confident in understanding state and props. I need to go back and understand further callbacks and arrow functions. I seem to shy away from using them probably because I don't fully grok the callback. 
