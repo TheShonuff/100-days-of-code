@@ -27,3 +27,6 @@ Light day. Transferred some notes to notion and did a few code wars.
 
 ### R1D7 
 Another Light Day. Wrote some C++ for class and did some REACT props and state.
+
+### R1D8
+Did some debugging for a web project and took steps to further grok bundlers.

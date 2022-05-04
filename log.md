@@ -63,3 +63,9 @@ I then logged 1 hour on uDemy finishing a REACT code along. Then I started worki
 **Today's Progress**: Wrote my final lab for ELE 181 in C++ today. Was a relatively easy assignment that combined all the lessons into one lab. After learning Python and Javascript this was a very easy lab to perform. I then moved on to learning more about React state and props. Finished a couple of FreedCodeCamp modules.
 
 **Thoughts**: Feeling more confident in understanding state and props. I need to go back and understand further callbacks and arrow functions. I seem to shy away from using them probably because I don't fully grok the callback. 
+
+### Day 8: May 3, 2022
+
+**Today's Progress**: Did some debugging for the ooh la la site. I was able to solve some of the problems but the main issue of enabling the masonry feature AFTER the site has finished loading is still alluding me. I've taken further steps to understand import vs require and started learning about Webpack and how it may help me solve this problem. 
+
+**Thoughts**: Kinda frustrated that I'm having a tough time understanding imports and require and why I can't just simply import a library and write a function to activate it on when the window loads. I'm really trying to avoid using jQuery as well to solve this problem. is that a good idea? 
