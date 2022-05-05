@@ -30,3 +30,6 @@ Another Light Day. Wrote some C++ for class and did some REACT props and state.
 
 ### R1D8
 Did some debugging for a web project and took steps to further grok bundlers.
+
+### R1D9
+Finally solved the masonry issue and configured webpack to my project. Started a react search api project. 

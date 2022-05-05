@@ -69,3 +69,11 @@ I then logged 1 hour on uDemy finishing a REACT code along. Then I started worki
 **Today's Progress**: Did some debugging for the ooh la la site. I was able to solve some of the problems but the main issue of enabling the masonry feature AFTER the site has finished loading is still alluding me. I've taken further steps to understand import vs require and started learning about Webpack and how it may help me solve this problem. 
 
 **Thoughts**: Kinda frustrated that I'm having a tough time understanding imports and require and why I can't just simply import a library and write a function to activate it on when the window loads. I'm really trying to avoid using jQuery as well to solve this problem. is that a good idea? 
+
+### Day 9: May 4th, 2022
+
+**Today's Progress**: Pretty happy about today. I was able to fix the mansonry loading issue by using webpack to create a file that directly uses the nodule module through an import and create a bundled file that I directly imported to the webpage through the script tag. I Then moved on to tackling some REACT tutorials and began working on the FrontEnd mentor Github User Search api. I was able to get a fetch request working correctly based on the from input. Unsure of how safe it actually is though.
+
+**Thoughts** React might be way overkill for this frontend mentor project but it's good that I'm getting my feed wet with the material. There are certainly some confusing aspects of REACT like not having to define a function before writing a function... but I guess that's because it's actually a method. Remember they're objects you're working with. Overall happy with today's progress. 
+
+
