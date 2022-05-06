@@ -76,4 +76,14 @@ I then logged 1 hour on uDemy finishing a REACT code along. Then I started worki
 
 **Thoughts** React might be way overkill for this frontend mentor project but it's good that I'm getting my feed wet with the material. There are certainly some confusing aspects of REACT like not having to define a function before writing a function... but I guess that's because it's actually a method. Remember they're objects you're working with. Overall happy with today's progress. 
 
+### Day 10: May 5th, 2022
+
+**Today's Progress**: Another productive day on the coding front. Solved all the major issues with Ooh La La photography site and waiting for feedback. Wrote a length blog post about my dealing with Webpack and tackled my Front End mentor challenge with the github api. I've jumped the major hurldle with the application with getting the JSON loaded and rendering to the DOM. Now all I have to do is style the damn thing. 
+
+**Thoughts** feeling good about my progress today. I did try to setup my development configuration a bit further today by attempting to automatically write a new webpack bundle on save AND re render my browser. I was able to get the webpack part working but the second half seems confusing. 
+
+While writing my REACT app I'm wondering if I'm over complicating it. I tend to do this a lot with things but I'm not well enough versed to know I'm taking the long way around. I'm writing all my components using class components as opposed to functional components. It's just the way I learned I guess but at this moment it seems more natural or at least the only way I can reliable setup a component in REACT. 
+
+P.S I don't think I like CSS very much... 
+
 
