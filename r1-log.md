@@ -34,5 +34,8 @@ Did some debugging for a web project and took steps to further grok bundlers.
 ### R1D9
 Finally solved the masonry issue and configured webpack to my project. Started a react search api project. 
 
-### R1d10
+### R1D10
 Solved all the major problems with Ooh La La and submitted for review. Tackled the react search app some more and made good progress. 
+
+### R1D11
+Styling for front end mentor app coming along but I hate CSS.

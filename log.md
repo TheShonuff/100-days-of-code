@@ -86,4 +86,12 @@ While writing my REACT app I'm wondering if I'm over complicating it. I tend to 
 
 P.S I don't think I like CSS very much... 
 
+### Day 11: May 6th, 2022
+
+**Today's Progress**: Day spent mostly wrestling CSS. I did manage to get the search bar styled and the top-half of the user results view styled. 
+
+**Thoughts** I kinda dislike CSS right now. I know I have to keep at it and try to learn the concepts but I really can't seem to get the elements to play nicely on the screen. It takes a lot of time to figure out how to align everything properly. Started back with the basics for note taking and added some cards to Notion for reference in the futre. I'll get this shit...sometime soon hopefully. 
+
+P.S still hate CSS
+
 
