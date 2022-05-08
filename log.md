@@ -94,4 +94,9 @@ P.S I don't think I like CSS very much...
 
 P.S still hate CSS
 
+### Day 12: May 7th, 2022
+
+**Today's Progress**: Kicked the day off prototyping a project that I'm interested in doing. I modeled the DB schema and the UI. The project seems pretty straight-forward to get a MVP. I then moved to more CSS on the REACT git-hub user API search. Learned the componentDidMount function to call an event when the object is activated. When the app loads the search component it will automatically fetch the OctoCat profile from github and display that rather than a blank screen.
+
+**Thoughts**: Still hate CSS but it's getting better slowly. Learned how to group items a little better for some efficiency. Starting to get a better feel for Flex and managed some decent progress on the UserView component. The componentDidMount is a pretty useful method? Function? It's actually a Class Definition.... Just googled it. Progress is made gotta start getting comfortable with MongoDB. 
 

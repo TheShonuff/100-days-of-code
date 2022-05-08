@@ -39,3 +39,6 @@ Solved all the major problems with Ooh La La and submitted for review. Tackled t
 
 ### R1D11
 Styling for front end mentor app coming along but I hate CSS.
+
+### R1D12
+Styling for front end mentor app. Still hate CSS. Did some prototyping and mongoDB schema modeling. 
