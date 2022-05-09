@@ -42,3 +42,6 @@ Styling for front end mentor app coming along but I hate CSS.
 
 ### R1D12
 Styling for front end mentor app. Still hate CSS. Did some prototyping and mongoDB schema modeling. 
+
+### R1D13
+Light day. Just did some Styling and learned CSS Grid. Wrote some more prototype ideas for project idea coming down the pipe. 

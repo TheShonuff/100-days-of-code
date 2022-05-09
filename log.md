@@ -100,3 +100,9 @@ P.S still hate CSS
 
 **Thoughts**: Still hate CSS but it's getting better slowly. Learned how to group items a little better for some efficiency. Starting to get a better feel for Flex and managed some decent progress on the UserView component. The componentDidMount is a pretty useful method? Function? It's actually a Class Definition.... Just googled it. Progress is made gotta start getting comfortable with MongoDB. 
 
+
+### Day 13: May 8th, 2022
+
+**Today's Progress**: Mellow day. I'm super tired. Took it slow and styled my Front end Mentor App. Figured CSS grid was the best approach for solving a few UI elements and it was. I kinda get CSS grid now. I need to setup a lot of IF statements it seems based on the state of my props coming over from the search component.
+
+**Thoughts**: Wondering the most effienct way to conditionally setup styles and outputs in react. There are a number of props being passed to the Userview that could potentially be NULL and I would need to setup the resulting output and corresponding style. Should the variable reflect both the style and output for ease? Like an object perhaps? 
