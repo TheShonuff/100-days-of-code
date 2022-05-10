@@ -45,3 +45,6 @@ Styling for front end mentor app. Still hate CSS. Did some prototyping and mongo
 
 ### R1D13
 Light day. Just did some Styling and learned CSS Grid. Wrote some more prototype ideas for project idea coming down the pipe. 
+
+### R1D14
+Light day. Troubleshooted some issues in REACT.

@@ -106,3 +106,9 @@ P.S still hate CSS
 **Today's Progress**: Mellow day. I'm super tired. Took it slow and styled my Front end Mentor App. Figured CSS grid was the best approach for solving a few UI elements and it was. I kinda get CSS grid now. I need to setup a lot of IF statements it seems based on the state of my props coming over from the search component.
 
 **Thoughts**: Wondering the most effienct way to conditionally setup styles and outputs in react. There are a number of props being passed to the Userview that could potentially be NULL and I would need to setup the resulting output and corresponding style. Should the variable reflect both the style and output for ease? Like an object perhaps? 
+
+### Day 14: May 9th, 2022
+ 
+ **Today's Progress** Not much. Wrestled with REACT in trying to get a state to persist when I get an undesired result from a search query. I can get the error message to display but the props that were set previously all go to NULL. 
+
+ **Thoughts** Had to study for finals and look at other items tonight. unable to really focus.
