@@ -48,3 +48,6 @@ Light day. Just did some Styling and learned CSS Grid. Wrote some more prototype
 
 ### R1D14
 Light day. Troubleshooted some issues in REACT.
+
+### R1D15
+Managed to solve a big issue on getting the dom to responed correctly to certain events. Moved to date formatting. struggled a bit there. 
