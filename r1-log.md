@@ -51,3 +51,6 @@ Light day. Troubleshooted some issues in REACT.
 
 ### R1D15
 Managed to solve a big issue on getting the dom to responed correctly to certain events. Moved to date formatting. struggled a bit there. 
+
+### R1D16
+Struggled with getting Tailwind CSS up and running. need to figure out how to toggle my app into dark mode. Will focus on Date Formatting and toggle functions tomorrow. 

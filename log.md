@@ -112,3 +112,15 @@ P.S still hate CSS
  **Today's Progress** Not much. Wrestled with REACT in trying to get a state to persist when I get an undesired result from a search query. I can get the error message to display but the props that were set previously all go to NULL. 
 
  **Thoughts** Had to study for finals and look at other items tonight. unable to really focus.
+
+ ### Day 15: May 10th, 2022
+
+ **Today's Progress**: Solved my previous issue with REACT. Was able to set a way for the Render to NOT update based on a condition. Then I figured out I had to set that condition in a CHILD as setting the condition in a parent affects the whole tree. Then I attempted some additional styling of the app and managed to deploy the app on Netlify. Tomorrow I'll work on getting the date to format correctly. The tricky part is going to get the month to match up correctly to what I get in the JSON response. There's a zero leading numbers less than 10 and REACT was already upset setting my object to keys as 01,02,03 etc. 
+
+ **Thoughts** Getting more comfortable with React Class components. I'm seeing that functional components are better but I'm not sure how to pivot out of the hole I'm already in....
+
+ ### Day 16: May11th, 2022
+
+ **Today's Progress**: No realy progress today. I had a final exam that took up a lot of time. I spent the rest of my time researching how to toggle light/dark mode in the Application and didn't come up with any good solutions. I tried to install Tailwind CSS but I got a ESline error and I ran out of time debugging the issue. I suspect using Tailwind this late in the styling game isn't a great idea. I need to figure out how to toggle between themes so other way.
+
+ **Thoughts**: FUCK CSS... seriously. 
