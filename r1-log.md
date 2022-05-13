@@ -54,3 +54,6 @@ Managed to solve a big issue on getting the dom to responed correctly to certain
 
 ### R1D16
 Struggled with getting Tailwind CSS up and running. need to figure out how to toggle my app into dark mode. Will focus on Date Formatting and toggle functions tomorrow. 
+
+### R1D17
+Started new Project TIS. Got the project setup and backend working ok. I setup a model and seeded my database. Little success on Github user app today. Struggled with media queries working correctly.

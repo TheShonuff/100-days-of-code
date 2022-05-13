@@ -119,8 +119,14 @@ P.S still hate CSS
 
  **Thoughts** Getting more comfortable with React Class components. I'm seeing that functional components are better but I'm not sure how to pivot out of the hole I'm already in....
 
- ### Day 16: May11th, 2022
+ ### Day 16: May 11th, 2022
 
- **Today's Progress**: No realy progress today. I had a final exam that took up a lot of time. I spent the rest of my time researching how to toggle light/dark mode in the Application and didn't come up with any good solutions. I tried to install Tailwind CSS but I got a ESline error and I ran out of time debugging the issue. I suspect using Tailwind this late in the styling game isn't a great idea. I need to figure out how to toggle between themes so other way.
+ **Today's Progress**: No real progress today. I had a final exam that took up a lot of time. I spent the rest of my time researching how to toggle light/dark mode in the Application and didn't come up with any good solutions. I tried to install Tailwind CSS but I got a ESline error and I ran out of time debugging the issue. I suspect using Tailwind this late in the styling game isn't a great idea. I need to figure out how to toggle between themes so other way.
 
  **Thoughts**: FUCK CSS... seriously. 
+
+ ### Day 17: May 12th, 2022
+
+ **Today's Progress"** Started project CIS implementation today. Created the frontend and backend project. I installed mongo, express and seeded the database. I successfully posted a get request and received a json response. Will work more on the backend before tackling the frontend of the project. On the Github user search app. I failed to get the media queries to work correctly. My iphone doesn't seem to load the right media query but it looks fantastic in the Firefox testing port. Fuck CSS
+
+ **Thoughts**: excited about project TIS. Will not touch front end stuff until I finish the github user search app and have most of the back end get requests done. I need to also work on a admin page to input data into the data base. 
