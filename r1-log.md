@@ -57,3 +57,6 @@ Struggled with getting Tailwind CSS up and running. need to figure out how to to
 
 ### R1D17
 Started new Project TIS. Got the project setup and backend working ok. I setup a model and seeded my database. Little success on Github user app today. Struggled with media queries working correctly.
+
+### R1D18
+Media query is working as expected. Date is formatted and presenting as expected. Did some studying of MongoDB

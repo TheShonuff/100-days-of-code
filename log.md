@@ -130,3 +130,9 @@ P.S still hate CSS
  **Today's Progress"** Started project CIS implementation today. Created the frontend and backend project. I installed mongo, express and seeded the database. I successfully posted a get request and received a json response. Will work more on the backend before tackling the frontend of the project. On the Github user search app. I failed to get the media queries to work correctly. My iphone doesn't seem to load the right media query but it looks fantastic in the Firefox testing port. Fuck CSS
 
  **Thoughts**: excited about project TIS. Will not touch front end stuff until I finish the github user search app and have most of the back end get requests done. I need to also work on a admin page to input data into the data base. 
+
+ ### Day 18: May 13th, 2022
+
+ **Today's Progress** Successfully parsed my Date string from the JSON and now have a date string that looks like the design. I also successfully have working media queries for the ipad and iphone. Also spent about 40 minutes studying MongoDB for an upcoming project. Need to seed my database with more entries for experimentation. 
+
+ **Thoughts** The media queries are working as expected now. I increased the max-width size and remove the only operator and it seems to be working fine. now sure how increasing the max-width solved my issue immeditaely but it's working as expected. Parsing the Date string was pretty straight forward. I moved my list of Months from an Object to an Array and filled the first position with a "null" as no date will return a 00. I then used the infamous parseInt() to shave the leading zero and used the new variable as my index. I hope my if statement within my function is enough for checking against possible errors. Time will tell.   
