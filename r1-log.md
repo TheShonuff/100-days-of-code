@@ -60,3 +60,6 @@ Started new Project TIS. Got the project setup and backend working ok. I setup a
 
 ### R1D18
 Media query is working as expected. Date is formatted and presenting as expected. Did some studying of MongoDB
+
+### R1D19
+Styling and conditional styles are setup on the Github app. worked on seeding my local DB with content to test my schema. 

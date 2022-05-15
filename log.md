@@ -136,3 +136,9 @@ P.S still hate CSS
  **Today's Progress** Successfully parsed my Date string from the JSON and now have a date string that looks like the design. I also successfully have working media queries for the ipad and iphone. Also spent about 40 minutes studying MongoDB for an upcoming project. Need to seed my database with more entries for experimentation. 
 
  **Thoughts** The media queries are working as expected now. I increased the max-width size and remove the only operator and it seems to be working fine. now sure how increasing the max-width solved my issue immeditaely but it's working as expected. Parsing the Date string was pretty straight forward. I moved my list of Months from an Object to an Array and filled the first position with a "null" as no date will return a 00. I then used the infamous parseInt() to shave the leading zero and used the new variable as my index. I hope my if statement within my function is enough for checking against possible errors. Time will tell.   
+
+ ### Day 19: May 14th, 2022
+
+ **Today's Progress**: really tired today and not much accomplished as I'm calling it early to go to bed. I was able to use the ternary operator to achieve conditional styling in my Github User Search app. I touched up a few styling issues and moved onto seeding my TIS database so I can have some content to play with to make sure my schema is strong enough.
+
+ **Thoughts**: Need to start thinking about the light/dark theme button on my Github app as that's the last major hurdle until it's completed. Mongodb seems pretty simple so far as I seed the database and make queries. I'll need to figure out how I want my get requests to return. 
