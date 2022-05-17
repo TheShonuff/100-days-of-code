@@ -63,3 +63,9 @@ Media query is working as expected. Date is formatted and presenting as expected
 
 ### R1D19
 Styling and conditional styles are setup on the Github app. worked on seeding my local DB with content to test my schema. 
+
+### R1D20
+Theme changer is working.
+
+### R1D21
+Finished Github search app. Did some react exercises

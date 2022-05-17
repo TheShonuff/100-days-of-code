@@ -142,3 +142,15 @@ P.S still hate CSS
  **Today's Progress**: really tired today and not much accomplished as I'm calling it early to go to bed. I was able to use the ternary operator to achieve conditional styling in my Github User Search app. I touched up a few styling issues and moved onto seeding my TIS database so I can have some content to play with to make sure my schema is strong enough.
 
  **Thoughts**: Need to start thinking about the light/dark theme button on my Github app as that's the last major hurdle until it's completed. Mongodb seems pretty simple so far as I seed the database and make queries. I'll need to figure out how I want my get requests to return. 
+
+ ### Day 20: May 15th, 2022
+
+ **Today's Progress**: Succesfully implmented Theme changing!!! This trick was is [data-theme]. I tried writing a function to change the style directly in the app.js by toggle a button between 1 and 0 and having the class set based on the toggle condition but I didn't have any luck. A tutorial was able to guide me in the right direction.
+
+ **Thoughts**:Feels good to have this almost done and move on to something else. Just need to style the theme button tommorrow. That should be interesting. 
+
+ ### Day 21: May 16th, 2022
+
+ **Today's Progress**: Finished the github search app from front end mentor. Granted there are several html errors and maybe some styling issues none the less it's considered finished. I'm moving on. Started some React exercises in Udemy to further drive home Props and State. Need to get this up to muscle memory. I'm forgetting a lot small things.
+
+ **Thoughts**: Feel good about how I'm progressing. Getting more comfortable with CSS and React. Can mostly setup projects with little note referencing. This get mixed up with how to lay out my components and who's leading who.
