@@ -69,3 +69,6 @@ Theme changer is working.
 
 ### R1D21
 Finished Github search app. Did some react exercises
+
+### R1D22
+Mellow day. Watch a few udemy classes and did acouple of exercises. 

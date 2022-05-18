@@ -154,3 +154,9 @@ P.S still hate CSS
  **Today's Progress**: Finished the github search app from front end mentor. Granted there are several html errors and maybe some styling issues none the less it's considered finished. I'm moving on. Started some React exercises in Udemy to further drive home Props and State. Need to get this up to muscle memory. I'm forgetting a lot small things.
 
  **Thoughts**: Feel good about how I'm progressing. Getting more comfortable with CSS and React. Can mostly setup projects with little note referencing. This get mixed up with how to lay out my components and who's leading who.
+
+ ### Day 22: May 17th, 2022
+
+ **Today's  Progress**: Mellow day. Only watched a few uDemy classes and did 2 exercises. Finished the day with a codewars 
+
+ **Thoughts**: Got confused in setting up a project and didn't attribute this correctly. Learned a few new methods for event binding that I'll watch for in the future.
