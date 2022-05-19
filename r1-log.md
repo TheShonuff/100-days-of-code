@@ -72,3 +72,6 @@ Finished Github search app. Did some react exercises
 
 ### R1D22
 Mellow day. Watch a few udemy classes and did acouple of exercises. 
+
+### R1D23
+Productive day. Udemy tutorials, learned some stuff about Firebase, Hooked my app up to MongoDB Atlas. Styled TIS app. Styled new Frontend Mentor Challenge. 

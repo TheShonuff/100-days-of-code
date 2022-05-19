@@ -160,3 +160,11 @@ P.S still hate CSS
  **Today's  Progress**: Mellow day. Only watched a few uDemy classes and did 2 exercises. Finished the day with a codewars 
 
  **Thoughts**: Got confused in setting up a project and didn't attribute this correctly. Learned a few new methods for event binding that I'll watch for in the future.
+
+ ### Day 23: May 18th, 2022
+
+ **Today's Progress**: Productive day. Managed to do a code along and get a grasp of Firebase. Utilized login and database entries.Connected TIS app to MongoDB Atlas and was able to successfully get data from a request. Outline some UI components in the TIS app. Started and styled a new frontend mentor app. 
+
+ **Thoughts**: Spent too much time today getting stumped on array's of objects in React. Seems to be that I need to use map to go through embed items. Even on a FindOne one search request I had trouble reading the document that had an embed layer? I forgot the proper term. I would need to access view Data.Layer.Layer2 and React get's upset every time even though a console.log show it understands that it's an object. 
+
+ Feeling good finishing up today with my CSS skills. Was able to mostly layout the next frontend mentor project. Need to hook up the logic tomorrow. It's mostly done though. I was able to hook to onChange events to the input field and the app see's the state change in real time. I just need to write the methods to perform the math functions. 
