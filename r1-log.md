@@ -75,3 +75,6 @@ Mellow day. Watch a few udemy classes and did acouple of exercises.
 
 ### R1D23
 Productive day. Udemy tutorials, learned some stuff about Firebase, Hooked my app up to MongoDB Atlas. Styled TIS app. Styled new Frontend Mentor Challenge. 
+
+### R1D24
+Good day. Github search app fixed some styling issues. Finished the logic in the tip calculator. 

@@ -168,3 +168,9 @@ P.S still hate CSS
  **Thoughts**: Spent too much time today getting stumped on array's of objects in React. Seems to be that I need to use map to go through embed items. Even on a FindOne one search request I had trouble reading the document that had an embed layer? I forgot the proper term. I would need to access view Data.Layer.Layer2 and React get's upset every time even though a console.log show it understands that it's an object. 
 
  Feeling good finishing up today with my CSS skills. Was able to mostly layout the next frontend mentor project. Need to hook up the logic tomorrow. It's mostly done though. I was able to hook to onChange events to the input field and the app see's the state change in real time. I just need to write the methods to perform the math functions. 
+
+ ### Day 24: May 19th, 2022
+
+ **Today's Progress**: First skills assesstment test while in the new job market. Edited some issues with the Github user search app. Finished the Logic in the Tip calculator. Some minor styling issues remain.
+
+ **Thoughts**: Got burned on some dynamic styling in the github app. That in combination with the after thought that is the theme-toggler button which sits outside of EVERYTHING. So it's not affected by any adjustment of the views below it. If I understood hooks better I might be able to throw it into the search component but I didn't have any luck when I tried it earlier. Maybe I'll make a git branch and try it for real after I get a better grasp down the road...
