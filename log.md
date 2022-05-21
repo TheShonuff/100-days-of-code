@@ -174,3 +174,9 @@ P.S still hate CSS
  **Today's Progress**: First skills assesstment test while in the new job market. Edited some issues with the Github user search app. Finished the Logic in the Tip calculator. Some minor styling issues remain.
 
  **Thoughts**: Got burned on some dynamic styling in the github app. That in combination with the after thought that is the theme-toggler button which sits outside of EVERYTHING. So it's not affected by any adjustment of the views below it. If I understood hooks better I might be able to throw it into the search component but I didn't have any luck when I tried it earlier. Maybe I'll make a git branch and try it for real after I get a better grasp down the road...
+
+ ### Day 25: May 20th, 2022
+
+ **Today's Progress**: Tried to make sense of SquareSpace templating. Didn't make any real progress other than setting up a dev enviroment on the local machine. Worked on the Tip calculator challenge some more. Was hoping to finish but got stumped on a few styling challenges. Logic is completely done. 
+
+ **Thoughts**: Was hoping to get the Tip Calculator finished but spent a lot of time trying to get a dynamic outline for an error of zero people selected. which I think is a crap design. There would be no situation where 0 people would be selected for calculating a tip. There would always be at least 1 person dining. Defaulting to 1 person makes the most sense. I get that it's a challenge to display a certain style if an incorrect input is selected but zero people would almost never be selected unless by mistake. Anyways. The styling on desktop is done and now to move onto getting the table and mobile done.

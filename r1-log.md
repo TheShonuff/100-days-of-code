@@ -78,3 +78,6 @@ Productive day. Udemy tutorials, learned some stuff about Firebase, Hooked my ap
 
 ### R1D24
 Good day. Github search app fixed some styling issues. Finished the logic in the tip calculator. 
+
+### R1D25
+Okay day. Got stumped on some styling the Tip Calculator and some logic. Logic is all done. Need to style mobile.
