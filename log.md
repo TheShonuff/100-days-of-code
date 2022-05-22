@@ -180,3 +180,9 @@ P.S still hate CSS
  **Today's Progress**: Tried to make sense of SquareSpace templating. Didn't make any real progress other than setting up a dev enviroment on the local machine. Worked on the Tip calculator challenge some more. Was hoping to finish but got stumped on a few styling challenges. Logic is completely done. 
 
  **Thoughts**: Was hoping to get the Tip Calculator finished but spent a lot of time trying to get a dynamic outline for an error of zero people selected. which I think is a crap design. There would be no situation where 0 people would be selected for calculating a tip. There would always be at least 1 person dining. Defaulting to 1 person makes the most sense. I get that it's a challenge to display a certain style if an incorrect input is selected but zero people would almost never be selected unless by mistake. Anyways. The styling on desktop is done and now to move onto getting the table and mobile done.
+
+ ### Day 26: May 21st, 2022
+
+ **Today's Progress**: Installed new keycaps on keyboard and finished the frontend mentor challenge. Calling it early today to catch up on some rest.
+
+ **Thoughts**: feel silly for not knowing that I can view the development site on my phone by navigating to my local ip:port... Made mobile styling WAY easier.

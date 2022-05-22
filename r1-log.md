@@ -81,3 +81,6 @@ Good day. Github search app fixed some styling issues. Finished the logic in the
 
 ### R1D25
 Okay day. Got stumped on some styling the Tip Calculator and some logic. Logic is all done. Need to style mobile.
+
+### R1D26
+Easy day. Calling it early.
