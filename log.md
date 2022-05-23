@@ -186,3 +186,9 @@ P.S still hate CSS
  **Today's Progress**: Installed new keycaps on keyboard and finished the frontend mentor challenge. Calling it early today to catch up on some rest.
 
  **Thoughts**: feel silly for not knowing that I can view the development site on my phone by navigating to my local ip:port... Made mobile styling WAY easier.
+
+ ### Day 27: May 22nd, 2022
+
+ **Today's Progress**: No real progress today. Spent some time working on C++ and flashed micro-controller to work with WLED
+
+ **Thoughts**: Going to bed early and get some sleep.

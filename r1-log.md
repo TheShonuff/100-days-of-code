@@ -84,3 +84,7 @@ Okay day. Got stumped on some styling the Tip Calculator and some logic. Logic i
 
 ### R1D26
 Easy day. Calling it early.
+
+
+### R1D27
+No coding today. 
