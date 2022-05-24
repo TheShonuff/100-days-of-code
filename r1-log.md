@@ -88,3 +88,6 @@ Easy day. Calling it early.
 
 ### R1D27
 No coding today. 
+
+### R1D28
+1 udemy exercise and a codewars challenge.

@@ -192,3 +192,9 @@ P.S still hate CSS
  **Today's Progress**: No real progress today. Spent some time working on C++ and flashed micro-controller to work with WLED
 
  **Thoughts**: Going to bed early and get some sleep.
+
+ ### Day 28: May 23rd, 2022
+
+ **Today's Progress**: Feeling tired. Did a uDemy exercise completing a hangman game and then move on to some codewars.
+
+ **Thoughts**: Weather is getting hot. Really tired lately and can't focus. 
