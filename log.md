@@ -198,3 +198,10 @@ P.S still hate CSS
  **Today's Progress**: Feeling tired. Did a uDemy exercise completing a hangman game and then move on to some codewars.
 
  **Thoughts**: Weather is getting hot. Really tired lately and can't focus. 
+
+ ### Day 29: May 25th, 2022
+
+ **Today's Progress**: Some small progress Today. It's my day off and it's summer time so I find my energy levels pretty low. I was able to complete the Lights out game on uDemy and finished the Forms module. Spent some reading reading trying to fully grok the map method. Seems really important to grasp this method for when I using react.
+
+ **Thoughts**: The forms module was pretty easy and I had discovered alot of the material covered when I was working on the tip calculator application for front end mentor. I might go back and try to refactor the application based on learning how to pass data upwards but we'll see how motivated I am. I just might keep it in the back pocket for when I designing the next project as I have a better idea how to break up components and pass data around. 
+ 
