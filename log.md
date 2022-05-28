@@ -204,4 +204,16 @@ P.S still hate CSS
  **Today's Progress**: Some small progress Today. It's my day off and it's summer time so I find my energy levels pretty low. I was able to complete the Lights out game on uDemy and finished the Forms module. Spent some reading reading trying to fully grok the map method. Seems really important to grasp this method for when I using react.
 
  **Thoughts**: The forms module was pretty easy and I had discovered alot of the material covered when I was working on the tip calculator application for front end mentor. I might go back and try to refactor the application based on learning how to pass data upwards but we'll see how motivated I am. I just might keep it in the back pocket for when I designing the next project as I have a better idea how to break up components and pass data around. 
- 
+
+
+ ### Day 30: May 26th, 2022
+
+ **Today's Progress**: Performed and completed 2 exercises from the Colt Steel udemy class. Getting a solid grasp of passing data around and reading code
+
+ **Thoughts**: Feeling more confident in writing React logic. I'm starting to find some more gaps in things I need to learn. Like a better understanding of creating and defining custom objects. There was a point in the Yahtzee game application where there was a custom rule set and I didn't understand all the written code.
+
+ ### Day 31: May 27th, 2022
+
+ **Today's Progress**: Finished the Yahtzee exercise. Was starting to get frustrated with the using of class components as I'm seeing that most of the dev community has moved away from class components to functional components so I skipped a few modules to begin the work on functional components. 
+
+ **Thoughts**: Still finding those gaps. Which is good. I know I need to focus on understanding callbacks better and certain array functions like map. I did learn about the Object method of SET today. Which is why I noticing this gaps. I wonder what the best way is to remember some of this important ones and be able to pull them down from memory??

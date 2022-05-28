@@ -94,3 +94,9 @@ No coding today.
 
 ### R1D29
 udemy exercise and 1 module. 
+
+### R1D30
+2 udemy exercises
+
+### R1D31
+finished Yahtzee exercise. Moved to start grokking functional components. 
