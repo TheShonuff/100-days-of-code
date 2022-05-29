@@ -217,3 +217,9 @@ P.S still hate CSS
  **Today's Progress**: Finished the Yahtzee exercise. Was starting to get frustrated with the using of class components as I'm seeing that most of the dev community has moved away from class components to functional components so I skipped a few modules to begin the work on functional components. 
 
  **Thoughts**: Still finding those gaps. Which is good. I know I need to focus on understanding callbacks better and certain array functions like map. I did learn about the Object method of SET today. Which is why I noticing this gaps. I wonder what the best way is to remember some of this important ones and be able to pull them down from memory??
+
+ ### Day 32: May 28th, 2022
+
+ **Today's Progress**: Some more time in Udemy learning about functional components in React. I plan on finishing out the next exercise and then begin working on project to implement what I have learned. I ideally I would like to get to the next.js part before I begin so I can start implementing next but I feel I have a couple of more days ahead of me before that can happen.
+
+ **Thoughts**: Functional components continue to prove themselves to be way better to write and use. 

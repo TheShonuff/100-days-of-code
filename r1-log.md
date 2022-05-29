@@ -100,3 +100,6 @@ udemy exercise and 1 module.
 
 ### R1D31
 finished Yahtzee exercise. Moved to start grokking functional components. 
+
+### R1D32
+working on learning functional components and codewars
