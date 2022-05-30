@@ -103,3 +103,6 @@ finished Yahtzee exercise. Moved to start grokking functional components.
 
 ### R1D32
 working on learning functional components and codewars
+
+### R1D33
+Worked on udemy hooks exercise, codewars, played with Material UI in React. 

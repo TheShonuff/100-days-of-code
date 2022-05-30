@@ -223,3 +223,9 @@ P.S still hate CSS
  **Today's Progress**: Some more time in Udemy learning about functional components in React. I plan on finishing out the next exercise and then begin working on project to implement what I have learned. I ideally I would like to get to the next.js part before I begin so I can start implementing next but I feel I have a couple of more days ahead of me before that can happen.
 
  **Thoughts**: Functional components continue to prove themselves to be way better to write and use. 
+
+ ### Day 33: Math 29th, 2022
+
+ **Today's Progress**: Light day. Have work early tomorrow. Did a couple of codewars fundamentals and then started the Hooks project on uDemy. Played with Material UI
+
+ **Thoughts**: Looking forward to finishing this exercise on React Hooks so I can start a project. The concepts are clicking with me. Material UI is interesting to use in React. Seems complicated with all the extra imports to just avoid some CSS. 
