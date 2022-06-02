@@ -224,8 +224,14 @@ P.S still hate CSS
 
  **Thoughts**: Functional components continue to prove themselves to be way better to write and use. 
 
- ### Day 33: Math 29th, 2022
+ ### Day 33: May 29th, 2022
 
  **Today's Progress**: Light day. Have work early tomorrow. Did a couple of codewars fundamentals and then started the Hooks project on uDemy. Played with Material UI
 
  **Thoughts**: Looking forward to finishing this exercise on React Hooks so I can start a project. The concepts are clicking with me. Material UI is interesting to use in React. Seems complicated with all the extra imports to just avoid some CSS. 
+
+ ### Day 34: June 1st, 2022
+
+ **Today's Progress**: couple day break. Summer class started and needed a few rest days. Wasn't able to tackle much today. Did a few codewar problems and tried to finished the last of uDemy react Bootcamp on functional components before tackling projects to have a solid understanding.
+
+ **Thoughts**: Looking forward to start implementing some of these fun things I'm learning. usecontext, useEffect.

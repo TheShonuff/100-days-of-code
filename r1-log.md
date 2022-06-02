@@ -106,3 +106,6 @@ working on learning functional components and codewars
 
 ### R1D33
 Worked on udemy hooks exercise, codewars, played with Material UI in React. 
+
+### R1D34
+Worked on udemy hooks exercise, codewars.
