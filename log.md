@@ -235,3 +235,15 @@ P.S still hate CSS
  **Today's Progress**: couple day break. Summer class started and needed a few rest days. Wasn't able to tackle much today. Did a few codewar problems and tried to finished the last of uDemy react Bootcamp on functional components before tackling projects to have a solid understanding.
 
  **Thoughts**: Looking forward to start implementing some of these fun things I'm learning. usecontext, useEffect.
+
+ ### Day 35: June 4th, 2022
+
+ **Today's Progress**: Started the frontend Mentor Tic-Tac-Toe Challenge. Got the basic structure outline in React and the components setup. 
+
+ **Thoughts**: Certainly harder than expected. First major hurdle is rendering the board with individual "square" components and having those square components update the State based on a Click. I'm currently able to set each square with a Key but at integer doesn't register with any click events. Will spend time researching tomorrow before I tackle again.
+
+### Day 36: June 6th, 2022
+
+**Today's Progress**: Continued the tic-tac-toe challenge after school work was completed. Managed to update the state and render a symbol to reflect that state change. 
+
+**Thoughts**: This project is challenging. I'm out one my own with no tutorial to follow so I'm kind having to piece everything together and search for the snippets I need for this project. Wanted to give up and move to something easier but I realize this is how you learn. I find it curious how X,Y are flipped in certain parts of the functions....
