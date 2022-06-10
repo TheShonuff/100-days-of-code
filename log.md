@@ -247,3 +247,22 @@ P.S still hate CSS
 **Today's Progress**: Continued the tic-tac-toe challenge after school work was completed. Managed to update the state and render a symbol to reflect that state change. 
 
 **Thoughts**: This project is challenging. I'm out one my own with no tutorial to follow so I'm kind having to piece everything together and search for the snippets I need for this project. Wanted to give up and move to something easier but I realize this is how you learn. I find it curious how X,Y are flipped in certain parts of the functions....
+
+
+### Day 37: June 7th, 2022
+
+**Today's Progress**: More Tic-Tac-Toe challenge. Was able to make some good progress. Added alternating player changes after the board is updated. Able to reset the game and can detect the winner if a row meets the qualifications. 
+
+**Thoughts**: I suspect a major issue I was having was over thinking the problems. Once I was able to get something written down I was able to move the functions around to work in my favor. good progress today. Feeling better. 
+
+### Day 38: June 8th, 2022
+
+**Today's Progress**: A lot accomplished on the tic-tac-toe app. Game Select state done. Majority of the logic and started to implement the game won modal.
+
+**Thoughts**: Things are making sense. It will be interesting to see where I can refactor this application using context and useEffect. 
+
+### Day 39: June 9th, 2022
+
+**Today's Progress**: Still making good progress on the tic-tac-to app. Ran into an issue with how styles are applied when the modal is active. I would like the background to dim to bring focus to the modal but an opacity attribute is applied to everything. There are a few things left to do on the project and they're all mostly styling related. Need to set the squares to be highlighted during a win condition. Need to make a modal for the Tie or Draw condition. And need to setup the CPU player and allow the picking of symbols for player one. 
+
+**Thoughts**: 2 steps forward 1 step back. Feeling good that things are making sense but right when you get a groove going you're smacked with a new challenge and you feel that you're not smart enough again to solve the problem. Hopefully some refelection on the problem will bring forth a solution.
