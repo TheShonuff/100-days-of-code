@@ -266,3 +266,15 @@ P.S still hate CSS
 **Today's Progress**: Still making good progress on the tic-tac-to app. Ran into an issue with how styles are applied when the modal is active. I would like the background to dim to bring focus to the modal but an opacity attribute is applied to everything. There are a few things left to do on the project and they're all mostly styling related. Need to set the squares to be highlighted during a win condition. Need to make a modal for the Tie or Draw condition. And need to setup the CPU player and allow the picking of symbols for player one. 
 
 **Thoughts**: 2 steps forward 1 step back. Feeling good that things are making sense but right when you get a groove going you're smacked with a new challenge and you feel that you're not smart enough again to solve the problem. Hopefully some refelection on the problem will bring forth a solution.
+
+### Day 40: June 10th, 2022
+
+**Today's Progress**: Finished the majority of mobile styling on the tic-tac-toe application.
+
+**Thoughts**: Was stuck on the modal trying to get the window to have the right opacity. turns out setting the wrapper div to absolute position was the ticket to creating the effect.
+
+### Day 41: June 11th, 2022
+
+**Today's Progress**: Corrected the issue with mobile rending what looks like broken links. Created a ternary to only render a img tag rather than the img src. Corrected a styling issue with the modal window Where after center the entire application in the view port the modal was very off center. Adding Top, Left, Right attributes with a zero value. Lastly added React Mobile Detect to determine the device the application is running on so different content can render.
+
+**Thoughts**: Thought Mobile react detection library was going to be way harder to implement than it actually was. While I only used one aspect of the library it was a simple as using isMobile and using that boolean to render content. Need to implement this in a few other spots within the application. When move on to setting shape selection state and hopefully start looking at rendering a colored box when the wins state is detected in the column, row or diagonal. 
