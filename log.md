@@ -278,3 +278,39 @@ P.S still hate CSS
 **Today's Progress**: Corrected the issue with mobile rending what looks like broken links. Created a ternary to only render a img tag rather than the img src. Corrected a styling issue with the modal window Where after center the entire application in the view port the modal was very off center. Adding Top, Left, Right attributes with a zero value. Lastly added React Mobile Detect to determine the device the application is running on so different content can render.
 
 **Thoughts**: Thought Mobile react detection library was going to be way harder to implement than it actually was. While I only used one aspect of the library it was a simple as using isMobile and using that boolean to render content. Need to implement this in a few other spots within the application. When move on to setting shape selection state and hopefully start looking at rendering a colored box when the wins state is detected in the column, row or diagonal. 
+
+### Day 42: June 12th, 2022
+
+**Today's Progress**: Wrote the what feels like a unnecessarily long ternary operation for rendering the the image in a square. Fixed the issue with having to double click on mobile to activate a square. Used a similar solution in the modal to render the winner icon and have no icon when the game ends in a draw. Mobile was rending a square a placeholder when using the ternary inside the source of an image tag. 
+
+**Thoughts**: Very tired and need to get some sleep so not able to put in as much work as I would like. 
+
+### Day 43: June 13th, 2022
+
+**Today's Progress**: Got the icon picker working in the game selection screen. That picker will set the state for player1 and updates several UI elements. 
+
+**Thoughts**: getting the picker to work was easier than I thought. I will need to create some additional ternary operations when the cpu opppoent is created. As player.name will not be an option unless I set the state in the object of playerTwo?
+
+### Day 44: June 14th, 2022
+
+**Today's Progress**: started to implement the CPU player function. The game registers the state but currently what the cpu selects is very messy and the player changing function is not operational. 
+
+### Day 45: June 16th, 2022
+
+**Today's Progress**: finished the Tic-Tac-Toe application for frontend mentor. Feels great.
+
+**thoughts**: A lot learning from this project. need to collect my thoughts and create a blog post. 
+
+### Day 46L June 19th, 2022
+
+**Today's Progress**: code wars. Took up too much time on one problem.
+
+**Thoughts**: keep forgetting about the helpful math methods.
+
+### Day 47: June 20th, 2022
+
+**Today's Progress**: code wars.
+
+### Day 48: June 22nd, 2022
+
+**Today's Progress**: Wrote a blog post about my process of creating the tic-tac-toe application. Researched and setup a development environment for creating shopify themes. 
