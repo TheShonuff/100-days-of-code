@@ -314,3 +314,7 @@ P.S still hate CSS
 ### Day 48: June 22nd, 2022
 
 **Today's Progress**: Wrote a blog post about my process of creating the tic-tac-toe application. Researched and setup a development environment for creating shopify themes. 
+
+### Day 49: June 26, 2022
+
+**Today's Progress**: No coding progress. Setting up new SSD.
